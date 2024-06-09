@@ -1,8 +1,8 @@
-==4187== Lackey, an example Valgrind tool
-==4187== Copyright (C) 2002-2017, and GNU GPL'd, by Nicholas Nethercote.
-==4187== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
-==4187== Command: ./build/hello_c
-==4187== 
+==17404== Lackey, an example Valgrind tool
+==17404== Copyright (C) 2002-2017, and GNU GPL'd, by Nicholas Nethercote.
+==17404== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==17404== Command: ./build/hello_c
+==17404== 
 I  0401f540,3
 I  0401f543,5
  S 1ffefffde8,8
@@ -192042,4 +192042,4 @@ I  0493620b,5
 I  04936210,2
 I  04936219,2
 I  0493621b,2
-==4187== 
+==17404== 
